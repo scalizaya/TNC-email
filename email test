@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Walking.com</title>
+		<link rel= "stylesheet" type="text/css" href="main.css"></link>
+	</head>
+	<body>
+		<div id="main">
+			<div id="header"><img src="walking_logo.png"></img></div>
+			<div id="navigation">
+				<ul>
+					<li><a class="nav-highlight">Home</a></li>
+					<li><a href="article2.htm">Articles</a></li>
+					<li><a href="programs.htm">Programs</a></li>
+					<li><a href="about_us.htm">About Us</a></li>
+				</ul>
+			</div>
+			<div id="mainSplash"><img src="walking3.jpg"></img></div>
+			<div id="content">
+				<div id="articles">
+					<div class="article" id="article-1">
+						<h2>About Walking...</h2>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis velit quis tellus molestie eleifend. In et diam orci. In non eros fringilla, sollicitudin sapien sed, consequat est. Suspendisse pharetra, ligula tincidunt interdum accumsan, eros tellus malesuada nisi, eget semper quam ipsum vel nisi. Nullam rutrum nec odio et aliquet. Duis ac fermentum felis, eu gravida dui. Mauris ut libero nec quam venenatis placerat. 
+							<br><a href="article1.htm">Read more..</a>
+						</p>
+					</div>
+					<div class="article" id="article-2">
+						<h2>About Walking...</h2>
+						<p>
+							Sed pharetra sed nibh sed venenatis. In libero elit, porttitor in rhoncus ac, luctus vitae dui. Etiam non egestas leo. Donec quis tincidunt sem, eu aliquet nisi. Nullam ullamcorper ornare ligula, ut tincidunt dolor. Nunc consequat turpis ac tincidunt tempus. Phasellus vitae venenatis quam. Pellentesque vulputate sapien quis mauris suscipit accumsan. Sed id pretium mi, eu laoreet dui. Maecenas interdum orci ac metus aliquam, at convallis metus sollicitudin. Proin non porttitor nisi. Mauris at sollicitudin quam. Nullam iaculis elit lorem, sit amet egestas felis porttitor nec. Quisque luctus lobortis turpis eu consequat. Nullam id sagittis sapien. Fusce iaculis dictum tellus a fermentum. 
+						</p>
+					</div>
+				</div>
+				<div id="sidebar">
+					<div id="sidebar-1" class="ad">
+						<h2>Advertisment 1</h2>
+						<p>
+							Sed pharetra sed nibh sed venenatis. In libero elit, porttitor in rhoncus ac, luctus vitae dui.
+						</p>
+					</div>
+					<div id="sidebar-2" class="ad">
+						<h2>Advertisment 2</h2>
+						<p>
+							Sed pharetra sed nibh sed venenatis. In libero elit, porttitor in rhoncus ac, luctus vitae dui.
+						</p>
+					</div>
+				</div>
+
+			</div>
+				
+			<div id="footer">
+					<a href="index_walking.htm">HOME</a><br>
+					<a href="about_us.htm">ABOUT US |</a>
+					<a href="index_walking.htm">LOCATION |</a>
+					<a href="programs.htm">PROGRAMS |</a><br>
+					<a href="index_walking.htm">CONTACT US</a>
+			</div>
+		</div>
+	
+
+	</body>
+</html>
